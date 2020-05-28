@@ -1,0 +1,5 @@
+[Telegram]
+api_id = <your-api-key>
+api_hash = <your-api-hash>
+phone = <your-phone-number>
+username = <your-usernme>
